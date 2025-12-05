@@ -48,9 +48,7 @@ CIRCUIT DIAGRAM
 
 ## DESIGN
 
-To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
-We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
-We get , R1 =	and hence Rf = 	
+<img width="407" height="492" alt="image" src="https://github.com/user-attachments/assets/bdb1591b-2833-4ae0-8527-021bc4be6a78" />
 
 ## PROCEDURE
 
@@ -131,14 +129,9 @@ AND
 
 ## DESIGN
 
-Design an op-amp differentiator that will differentiate an input signal with fmax = 100HZ Select fa = fmax = 100 HZ = 1 / 2πRFC1
-Let C1 = 0.1μF
-Then RF = 1 / 2π(102)(10-7)
-= 15.9KΩ
-Now choose fb = 10fa = 1 / 2πR1C1 Therefore, R1 = 1 / 2π(103)(10-7)
-= 1.59KΩ Since RFCF = R1C1
-We get, CF = (1.59*103*10-7) / 15.9*103
-= 0.01μF
+<img width="496" height="510" alt="image" src="https://github.com/user-attachments/assets/10eed7fc-1e82-4a68-bf5f-720e3936d6a0" />
+
+
 
 
 ## PROCEDURE
